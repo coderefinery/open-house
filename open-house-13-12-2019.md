@@ -12,6 +12,9 @@ Agenda:
     - CodeRefinery Instructor Training material
     - Jupyter & Reproducible Research lessons
         - binder: should we keep it in this lesson or move it to Reproducible research
+    - Finish CodeRefinery December Newsletter
+        - Thor
+        - On CR Drive under "news-blogs"
     - other?
     - Reviewing and testing tutorials is also a great way to contribute
 
