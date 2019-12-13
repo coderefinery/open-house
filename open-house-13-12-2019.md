@@ -1,5 +1,7 @@
 Agenda:
 
+Follow what we do today at https://hackmd.io/1Sso1UFMTXKihv1sedsTIA
+
 - Introduction round
 - Training material updates
     - Feedback from recent CodeRefinery workshops
