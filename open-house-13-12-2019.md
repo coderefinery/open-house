@@ -8,7 +8,7 @@ Follow what we do today at https://hackmd.io/1Sso1UFMTXKihv1sedsTIA
     - Summarize inputs from the CodeRefinery Instructor Training (last November)
 
 - What would you like to work on today? Need help?
-    - New tutorial on data versioning 
+    - New tutorial on data versioning
         - Enrico Glerean
         - Richard Darst
     - CodeRefinery Instructor Training material
