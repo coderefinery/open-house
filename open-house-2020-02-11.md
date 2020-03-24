@@ -3,16 +3,16 @@
 Video link: https://hangouts.google.com/call/YRDSbBmomLfeLNL8nRr_AEEI
 
 Agenda:
-  
+
 Follow what we do today at https://hackmd.io/1Sso1UFMTXKihv1sedsTIA
 
 - Introduction round
 - Look at the website and issues
     - https://coderefinery.org
     - https://github.com/coderefinery/coderefinery.org/issues
-    - Website improvement suggestion 
+    - Website improvement suggestion
         - https://docs.google.com/document/d/1u-XmEywO5MuTqDvmE12DyzWgoSC1xPhqDIgGWTBKf2w/edit?usp=sharing
-        
+
 - What we can work on
     - Solving issues (Improvement suggestions are also available [as a Google document ](https://drive.google.com/open?id=1u-XmEywO5MuTqDvmE12DyzWgoSC1xPhqDIgGWTBKf2w))
     - Adding issues
